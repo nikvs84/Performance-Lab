@@ -144,3 +144,111 @@ SELECT COU.COUNTRY_NAME "Страна", S_C.P_M "% мужчин", (100 - S_C.P_M
             ON S_C.C_ID = COU.COUNTRY_ID
     ORDER BY COU.COUNTRY_NAME
 ;
+
+-- 9
+WITH STAT_SALES AS
+    (
+        SELECT S.TIME_ID S_DATE, S.PROD_ID S_PID, COUNT(S.PROD_ID) S_COUNT 
+            FROM SH.SALES S 
+            GROUP BY S.TIME_ID, S.PROD_ID
+    )
+SELECT P_COUNT "Макс покуп/день", P_NAME "prod_name" 
+    FROM
+        (
+            SELECT ROW_NUMBER() OVER(ORDER BY P_COUNT DESC) P_NUM, P_NAME, P_COUNT 
+                FROM 
+                    (
+                        SELECT PROD.PROD_NAME P_NAME, MAX(S_S.S_COUNT) P_COUNT
+                            FROM STAT_SALES S_S
+                                INNER JOIN SH.PRODUCTS PROD
+                                    ON S_S.S_PID = PROD.PROD_ID
+                           GROUP BY PROD.PROD_NAME
+                    )
+        )
+    WHERE P_NUM < 21
+;
+
+-- 10
+WITH STAT_SALES AS
+    (
+        SELECT S.TIME_ID S_DATE, COUNT(S.PROD_ID) S_COUNT, (SELECT PR1.PROD_CATEGORY FROM SH.PRODUCTS PR1 WHERE PR1.PROD_ID = S.PROD_ID ) P_CAT
+            FROM SH.SALES S
+            GROUP BY S.TIME_ID, S.PROD_ID
+    )
+
+SELECT MAX_COUNT "Макс покуп/день", P_CAT "prod_category" 
+    FROM
+        (
+            SELECT ROW_NUMBER() OVER (ORDER BY MAX_COUNT DESC) CAT_NUM, P_CAT, MAX_COUNT 
+                FROM
+                    (
+                        SELECT P_CAT, MAX(S_COUNT) MAX_COUNT 
+                            FROM STAT_SALES
+                            GROUP BY P_CAT
+                    )
+
+        )
+    WHERE CAT_NUM < 21
+;
+
+-- 11
+/*
+Здесь есть повторяющийся подзапрос. С использованием временной таблицы (WITH xxx AS) 
+или представления (CREATE VIEW) выборка выполняется быстрее.
+Наверное, можно было сделать проще и правильнее, но времени мало
+
+Например, так работает процентов на 30 быстрее:
+
+CREATE OR REPLACE VIEW SH.USER5_TEMP AS
+    (
+        SELECT TRUNC(S.TIME_ID, 'MM' ) R_DATE, SUM(S.QUANTITY_SOLD ) S_SUM
+            FROM SH.SALES S
+            GROUP BY TRUNC(S.TIME_ID, 'MM' )
+    )
+;
+
+CREATE TABLE SH.SALES_User5_Nikolai_Semenyuk AS
+    (
+        SELECT * 
+            FROM SH.SALES S
+            WHERE TRUNC(S.TIME_ID, 'MM') = 
+                (
+                    SELECT R_DATE
+                        FROM SH.USER5_TEMP
+                        WHERE S_SUM = 
+                            (
+                                SELECT MAX(S_SUM) FROM SH.USER5_TEMP
+                            )
+                )
+    )
+;
+
+DROP VIEW SH.USER5_TEMP;
+*/
+CREATE TABLE SH.SALES_User5_Nikolai_Semenyuk AS
+    (
+        SELECT * 
+            FROM SH.SALES S
+            WHERE TRUNC(S.TIME_ID, 'MM') = 
+                (
+                    SELECT R_DATE
+                        FROM 
+                            (
+                                SELECT TRUNC(S.TIME_ID, 'MM' ) R_DATE, SUM(S.QUANTITY_SOLD ) S_SUM
+                                    FROM SH.SALES S
+                                    GROUP BY TRUNC(S.TIME_ID, 'MM' )
+                            )
+                        WHERE S_SUM = 
+                            (
+                                SELECT MAX(S_SUM) FROM 
+                                    (
+                                        SELECT TRUNC(S.TIME_ID, 'MM' ) R_DATE, SUM(S.QUANTITY_SOLD ) S_SUM
+                                            FROM SH.SALES S
+                                            GROUP BY TRUNC(S.TIME_ID, 'MM' )
+                                    )
+                        
+                            )
+                )
+    )
+;
+
