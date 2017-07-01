@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=21600
+Content-MD5: kEa1QVFPLsoEg+ZImxkhgA==
+Content-Type: text/xml
+Date: Sun, 18 Jun 2017 09:45:50 GMT
+Etag: 0x8D4AA123FB0FED2
+Last-Modified: Fri, 02 Jun 2017 23:51:12 GMT
+Server: ECAcc (waw/0551)
+X-Cache: HIT
+x-ms-blob-type: BlockBlob
+x-ms-lease-status: unlocked
+x-ms-request-id: d42e83f7-0001-00cd-47f7-e7884a000000
+x-ms-version: 2009-09-19
+

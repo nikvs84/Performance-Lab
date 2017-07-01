@@ -1,0 +1,13 @@
+[t3]
+FileName1=t3.htm
+URL1=http://u0351361.isp.regruhosting.ru/login.php?sid=60f5fdf6ac12c4cc91ecf6776344baf7
+Total=2
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_favicon.html
+URL2=http://u0351361.isp.regruhosting.ru/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t9]
+FileName1=t9.htm
+URL1=http://u0351361.isp.regruhosting.ru/login.php?logout=true&sid=60f5fdf6ac12c4cc91ecf6776344baf7
+Total=1
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_9.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

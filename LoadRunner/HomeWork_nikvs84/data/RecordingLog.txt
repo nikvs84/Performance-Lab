@@ -1,0 +1,422 @@
+[API Trapper      (16b8:1734)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (1594:1218)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (12c8: ccc)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (12c8: d50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (12c8: d50)] Load Network Traffic Analyzers:
+[Network Analyzer (12c8: d50)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (12c8: d50)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (12c8: d50)]     Analyzer Module: local_server (value=)
+[Network Analyzer (12c8: d50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (12c8:1200)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d50)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d24)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d50)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 280 bytes 
+[Network Analyzer (12c8: d24)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 4054 bytes 
+[WinInet Request  (12c8: 48c)] GET "http://u0351361.isp.regruhosting.ru/index.php"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 550 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  2) Client -> Server @ : 553 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 8277 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  2) Server -> Client : 520 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif"
+[Network Analyzer (12c8: d24)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 556 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  2) Client -> Server @ : 557 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 538 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  2) Server -> Client : 524 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  2) Client -> Server @ : 556 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif"
+[Network Analyzer (12c8: d24)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  2) Server -> Client : 523 bytes 
+[WinInet Request  (12c8:1364)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 558 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Client -> Server @ : 557 bytes 
+[WinInet Request  (12c8: d24)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 525 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Server -> Client : 537 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_register.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif"
+[Network Analyzer (12c8:12a8)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid:  2) Client -> Server @ : 557 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 555 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Client -> Server @ : 550 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  2) Server -> Client : 533 bytes 
+[WinInet Request  (12c8:1634)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 534 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Server -> Client : 979 bytes 
+[Network Analyzer (12c8:12a8)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  2) Client -> Server @ : 557 bytes 
+[WinInet Request  (12c8:12a8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  2) Server -> Client : 436 bytes 
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[WinInet Request  (12c8:1634)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_latest_reply.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  4) Client -> Server @ : 550 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 554 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Client -> Server @ : 557 bytes 
+[Network Analyzer (12c8: d50)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 965 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Server -> Client : 975 bytes 
+[WinInet Request  (12c8:12a8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new_big.gif"
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_locked_big.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  4) Server -> Client : 1231 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/whosonline.gif"
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid=  5)  PROXIED!
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_big.gif"
+[Network Analyzer (12c8: d50)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  4) Client -> Server @ : 548 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 548 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Client -> Server @ : 548 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  4) Server -> Client : 559 bytes 
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic3.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 783 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Server -> Client : 547 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic2.jpg"
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic1.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  3) Client -> Server @ : 393 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  3) Server -> Client : 1444 bytes 
+[WinInet Request  (12c8: d50)] GET "http://u0351361.isp.regruhosting.ru/favicon.ico"
+[Network Analyzer (12c8:1200)]   (Sid:  3) Connection Terminated (by Client)
+[WinInet Request  (1594:17f0)] GET "http://www.bing.com/favicon.ico"
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (12c8: eb8)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: eb8)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (12c8:14f0)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:14f0)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:17a4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Net An. Error    (12c8:17a4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (12c8:1200)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 198.41.214.186:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 93.184.221.200:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 212.30.134.169:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid:  9) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent login [WinInet Request  (1594: 58c)] GET "https://iecvlist.microsoft.com/IE11/1479242656000/iecompatviewlist.xml"
+[Network Analyzer (12c8:1200)]   (Sid:  6) Client -> Server @ : 542 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  6) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  6) Server -> Client : 2819 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/login.php?sid=60f5fdf6ac12c4cc91ecf6776344baf7"
+[Network Analyzer (12c8:1200)]   (Sid:  6) Client -> Server @ : 393 bytes 
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid:  6) Server -> Client : 1444 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/favicon.ico"
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (12c8:1548)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1548)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (12c8: d50)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d50)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (12c8:1604)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1604)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 690 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 524 bytes 
+[WinInet Request  (12c8:16f0)] POST "http://u0351361.isp.regruhosting.ru/login.php"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 614 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 3697 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/index.php?sid=60f5fdf6ac12c4cc91ecf6776344baf7"
+[Network Analyzer (12c8: d50)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d50)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (12c8:1450)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1450)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:14cc)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:14cc)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 15) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent login [Network Analyzer (12c8:1200)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (12c8:1200)]   (Sid: 11) Server -> Client : 414 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (12c8:1200)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (12c8:1200)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (12c8:1200)]   (Sid: 10) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent select category [Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 560 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 4360 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/viewforum.php?f=3"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 575 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 470 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/post.gif"
+[Network Analyzer (12c8: b0c)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 564 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 646 bytes 
+[Network Analyzer (12c8: b0c)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid= 16)  PROXIED!
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder.gif"
+[Network Analyzer (12c8:142c)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d50)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 568 bytes 
+[Network Analyzer (12c8:142c)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 638 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 573 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 609 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_announce.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 572 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 1462 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new_hot.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 568 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 571 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 646 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 1481 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 573 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_sticky.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 761 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 569 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_hot.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 635 bytes 
+[Network Analyzer (12c8: d50)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 18)  PROXIED!
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_lock_new.gif"
+[WinInet Request  (12c8:12a8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_lock.gif"
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (12c8:1598)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1598)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1474)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1474)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 20) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent select category [User action                 ] StartTransactionEvent select topic [Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 532 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 4534 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=13"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 633 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 536 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/reply.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 628 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 640 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 423 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 638 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 1103 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 1096 bytes 
+[WinInet Request  (12c8: d50)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 635 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 1135 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 638 bytes 
+[WinInet Request  (12c8:12a8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_quote.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_profile.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 1122 bytes 
+[WinInet Request  (12c8: d50)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_pm.gif"
+[Network Analyzer (12c8:1564)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 621 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_email.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 343 bytes 
+[WinInet Request  (12c8: d50)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/spacer.gif"
+[Network Analyzer (12c8:1564)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (12c8:1414)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: d50)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1414)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (12c8: d50)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (12c8:15a4)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:15a4)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8: d7c)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8: d7c)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 23) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent select topic [User action                 ] StartTransactionEvent quote [Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 599 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 7420 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=201"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 624 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 622 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 473 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 475 bytes 
+[WinInet Request  (12c8:1414)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_biggrin.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_smile.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 620 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 472 bytes 
+[WinInet Request  (12c8:1414)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_sad.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 626 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 620 bytes 
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 475 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 471 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 625 bytes 
+[WinInet Request  (12c8:1370)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_surprised.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_eek.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 621 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 472 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_confused.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 473 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 620 bytes 
+[WinInet Request  (12c8:12a8)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_cool.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 638 bytes 
+[WinInet Request  (12c8:1414)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_lol.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 621 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 620 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 624 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 477 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 952 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 475 bytes 
+[WinInet Request  (12c8:1370)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_razz.gif"
+[WinInet Request  (12c8: d50)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_redface.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_mad.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 620 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 621 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 624 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 537 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 539 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 800 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 625 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 21) Client -> Server @ : 621 bytes 
+[WinInet Request  (12c8:1370)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_evil.gif"
+[Network Analyzer (12c8:1200)]   (Sid:  1) Client -> Server @ : 624 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 787 bytes 
+[Network Analyzer (12c8:142c)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid: 21) Server -> Client : 471 bytes 
+[Network Analyzer (12c8:1200)]   (Sid:  1) Server -> Client : 537 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 625 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 621 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 622 bytes 
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_cry.gif"
+[WinInet Request  (12c8: d50)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_wink.gif"
+[WinInet Request  (12c8:1370)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_rolleyes.gif"
+[WinInet Request  (12c8:1414)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_twisted.gif"
+[WinInet Request  (12c8:12a8)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_exclaim.gif"
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 549 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 477 bytes 
+[WinInet Request  (12c8: eb8)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_question.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 471 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_idea.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/images/smiles/icon_arrow.gif"
+[Network Analyzer (12c8:142c)] Request Connection: Remote Server @ 31.31.196.163:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 614 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 2327 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/posting.php?mode=topicreview&t=13"
+[WinInet Request  (12c8: b28)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif"
+[WinInet Request  (12c8: b28)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/spacer.gif"
+[Network Analyzer (12c8:1564)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: eb8)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1638)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1564)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (12c8: eb8)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (12c8:1638)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:13d0)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:13d0)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:153c)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:153c)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 919 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 3070 bytes 
+[WinInet Request  (12c8:16f0)] POST "http://u0351361.isp.regruhosting.ru/posting.php"
+[Network Analyzer (12c8: eb8)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:13dc)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: eb8)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (12c8:13dc)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (12c8:1438)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1438)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1678)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1678)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 29) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent quote [Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 525 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 4491 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/viewtopic.php?p=210"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 708 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 709 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 245 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 243 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 712 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 243 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif"
+[WinInet Request  (12c8:13dc)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 713 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 243 bytes 
+[WinInet Request  (12c8:13dc)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 712 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 243 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif"
+[Network Analyzer (12c8: eb8)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1200)]   (Sid: 19) Client -> Server @ : 713 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 713 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 19) Server -> Client : 243 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 711 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 243 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 243 bytes 
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif"
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif"
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 714 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 715 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 244 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 244 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/post.gif"
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/reply.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 709 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 720 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 243 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 244 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_quote.gif"
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 704 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 243 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 722 bytes 
+[WinInet Request  (12c8:1564)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic1.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 244 bytes 
+[Network Analyzer (12c8: eb8)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 717 bytes 
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_profile.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 244 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_pm.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 720 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 702 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 244 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 243 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_email.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/spacer.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 638 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 1100 bytes 
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_edit.gif"
+[Network Analyzer (12c8:1200)]   (Sid: 17) Client -> Server @ : 705 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 627 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 17) Server -> Client : 244 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 581 bytes 
+[WinInet Request  (12c8:142c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_delete.gif"
+[WinInet Request  (12c8: b0c)] GET "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic3.gif"
+[Network Analyzer (12c8:142c)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:1510)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:142c)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (12c8:1510)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:149c)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:149c)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 25) Connection Terminated (by Server)
+[Network Analyzer (12c8:1200)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (12c8:1200)]   (Sid:  1) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent go home [Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 630 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 406 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Client -> Server @ : 410 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 1460 bytes 
+[Network Analyzer (12c8:1200)]   (Sid: 16) Server -> Client : 4065 bytes 
+[WinInet Request  (12c8:16f0)] GET "http://u0351361.isp.regruhosting.ru/login.php?logout=true&sid=60f5fdf6ac12c4cc91ecf6776344baf7"
+[Network Analyzer (12c8:142c)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8: b0c)] Address lookup for C320-2042 = 192.168.2.133
+[Network Analyzer (12c8:142c)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (12c8: b0c)] Request Connection: Remote Server @ 52.164.227.208:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (12c8:1554)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8:1554)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8: f60)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES256-SHA)
+[Network Analyzer (12c8: f60)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (12c8:1200)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (12c8:1200)]   (Sid: 33) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent go home 

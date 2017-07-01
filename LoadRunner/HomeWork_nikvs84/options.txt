@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IF:\PFL\LoadRunner\Forum
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ef:\pfl\loadrunner\forum\\logfile.log
+f:\pfl\loadrunner\forum\\combined_Forum.c
+f:\pfl\loadrunner\forum\\pre_cci.c

@@ -1,0 +1,7 @@
+Error: CCI compilation error -d:\users\user\appdata\local\temp\brr_qmt.522\global_dir\154908256\pre_cci.c: Action.c:16: error: illegal statement termination.	[MsgId: MERR-19799]
+Error: CCI compilation error -d:\users\user\appdata\local\temp\brr_qmt.522\global_dir\154908256\pre_cci.c: Action.c:16: error: skipping `int'.	[MsgId: MERR-19799]
+Error: CCI compilation error -d:\users\user\appdata\local\temp\brr_qmt.522\global_dir\154908256\pre_cci.c: Action.c:16: error: undeclared identifier `i'.	[MsgId: MERR-19799]
+Error: CCI compilation error -d:\users\user\appdata\local\temp\brr_qmt.522\global_dir\154908256\pre_cci.c: d:\\users\\user\\appdata\\local\\temp\\brr_qmt.522\\global_dir\\154908256\\combined_Forum.c:6: error: 3 errors, not writing pre_cci.ci.	[MsgId: MERR-19799]
+Error: Vuser compilation failed. Please set CCIDebug to Off in CCI section of mdrv.dat file.	[MsgId: MERR-19797]
+Warning: Extension cciext.dll reports error -19797 on call to function ExtPerProcessInitialize	[MsgId: MWAR-10485]
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.	[MsgId: MERR-10176]

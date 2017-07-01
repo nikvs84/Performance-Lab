@@ -1,0 +1,10 @@
+GET /login.php?sid=e90cfb5b38b6f812eac3919ae85889c3 HTTP/1.1
+Referer: http://u0351361.isp.regruhosting.ru/index.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: u0351361.isp.regruhosting.ru
+Cookie: phpbb2mysql_data=a%3A2%3A%7Bs%3A11%3A%22autologinid%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22userid%22%3Bi%3A-1%3B%7D; phpbb2mysql_sid=e90cfb5b38b6f812eac3919ae85889c3
+

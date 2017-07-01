@@ -1,0 +1,240 @@
+Virtual User Script started at : 01.07.2017 23:55:05
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 7; build 1203 (èþë 01 2017 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "F:\PFL\LoadRunner\Forum\\default.cfg"  	[MsgId: MMSG-27141]
+vuser_init.c(3): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+vuser_init.c(3): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+vuser_init.c(11): web_url("index.php") started  	[MsgId: MMSG-26355]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_register.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Downloading resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic3.gif" (specified by argument number 10)  	[MsgId: MMSG-26577]
+vuser_init.c(11): Downloading resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic1.gif" (specified by argument number 12)  	[MsgId: MMSG-26577]
+vuser_init.c(11): Downloading resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic2.jpg" (specified by argument number 14)  	[MsgId: MMSG-26577]
+vuser_init.c(11): Downloading resource "http://u0351361.isp.regruhosting.ru/favicon.ico" (specified by argument number 16)  	[MsgId: MMSG-26577]
+vuser_init.c(11): Downloading resource "http://www.bing.com/favicon.ico" (specified by argument number 19)  	[MsgId: MMSG-26577]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_big.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_latest_reply.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/whosonline.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new_big.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_locked_big.gif" in HTML "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26659]
+vuser_init.c(11): Notify: Saving Parameter "ssid = e90cfb5b38b6f812eac3919ae85889c3".
+vuser_init.c(11): Warning -26627: HTTP Status-Code=404 (Not Found) for "http://u0351361.isp.regruhosting.ru/favicon.ico"  	[MsgId: MWAR-26627]
+vuser_init.c(11): web_url("index.php") highest severity level was "warning", 36735 body bytes, 6082 header bytes, 25 chunking overhead bytes  	[MsgId: MMSG-26387]
+vuser_init.c(27): web_set_sockets_option started  	[MsgId: MMSG-26355]
+vuser_init.c(27): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+vuser_init.c(29): Notify: Transaction "Forum_WEB_01_login" started.
+vuser_init.c(31): web_url("login.php") started  	[MsgId: MMSG-26355]
+vuser_init.c(31): Notify: Parameter Substitution: parameter "ssid" =  "e90cfb5b38b6f812eac3919ae85889c3"
+vuser_init.c(31): Downloading resource "http://u0351361.isp.regruhosting.ru/favicon.ico" (specified by argument number 10)  	[MsgId: MMSG-26577]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_register.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(31): Warning -26627: HTTP Status-Code=404 (Not Found) for "http://u0351361.isp.regruhosting.ru/favicon.ico"  	[MsgId: MWAR-26627]
+vuser_init.c(31): web_url("login.php") highest severity level was "warning", 15928 body bytes, 472 header bytes, 32 chunking overhead bytes  	[MsgId: MMSG-26387]
+vuser_init.c(43): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+vuser_init.c(43): Notify: Parameter Substitution: parameter "category_name" =  "loadtest"
+vuser_init.c(43): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+vuser_init.c(51): web_submit_data("login.php_2") started  	[MsgId: MMSG-26355]
+vuser_init.c(51): Notify: Parameter Substitution: parameter "ssid" =  "e90cfb5b38b6f812eac3919ae85889c3"
+vuser_init.c(51): Notify: Parameter Substitution: parameter "user_name" =  "nikvs84_1"
+vuser_init.c(51): Notify: Parameter Substitution: parameter "password" =  "PFL"
+vuser_init.c(51): Redirecting "http://u0351361.isp.regruhosting.ru/login.php" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "http://u0351361.isp.regruhosting.ru/index.php?sid=e90cfb5b38b6f812eac3919ae85889c3"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_big.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_latest_reply.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/whosonline.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new_big.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_locked_big.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(51): Notify: Saving Parameter "category_link = viewforum.php?f=2".
+vuser_init.c(51): web_submit_data("login.php_2") was successful, 17937 body bytes, 803 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+vuser_init.c(66): Notify: Transaction "Forum_WEB_01_login" ended with a "Pass" status (Duration: 0,3204 Wasted Time: 0,0204).
+vuser_init.c(70): Notify: Transaction "Forum_WEB_02_select_category" started.
+vuser_init.c(72): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+vuser_init.c(72): Notify: Parameter Substitution: parameter "topic_name" =  "nikvs84@rambler.ru"
+vuser_init.c(72): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+vuser_init.c(80): web_url("{category_name}") started  	[MsgId: MMSG-26355]
+vuser_init.c(80): Notify: Parameter Substitution: parameter "category_link" =  "viewforum.php?f=2"
+vuser_init.c(80): Notify: Parameter Substitution: parameter "ssid" =  "e90cfb5b38b6f812eac3919ae85889c3"
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/post.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_latest_reply.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_hot.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_announce.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new_hot.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_sticky.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_lock_new.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_lock.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewforum.php?f=2"  	[MsgId: MMSG-26659]
+vuser_init.c(80): Notify: Saving Parameter "topic = viewtopic.php?t=21".
+vuser_init.c(80): web_url("{category_name}") was successful, 31398 body bytes, 3301 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+vuser_init.c(90): Notify: Transaction "Forum_WEB_02_select_category" ended with a "Pass" status (Duration: 0,2670 Wasted Time: 0,0159).
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Warning -27077: The "vuser_init" section contains web function(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations  	[MsgId: MWAR-27077]
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(7): Notify: Transaction "_Forum_WEB_03_main_transaction" started.
+Action.c(9): Notify: Transaction "_Forum_WEB_03_01_select_topic" started.
+Action.c(11): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(11): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(19): web_url("{topic_name}") started  	[MsgId: MMSG-26355]
+Action.c(19): Notify: Parameter Substitution: parameter "topic" =  "viewtopic.php?t=21"
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/post.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/reply.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_quote.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_edit.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_smile.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_profile.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_pm.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/spacer.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Found resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_delete.gif" in HTML "http://u0351361.isp.regruhosting.ru/viewtopic.php?t=21"  	[MsgId: MMSG-26659]
+Action.c(19): Notify: Saving Parameter "last_quote_1 = 412".
+Action.c(19): Notify: Saving Parameter "last_quote_2 = 413".
+Action.c(19): Notify: Saving Parameter "last_quote_3 = 414".
+Action.c(19): Notify: Saving Parameter "last_quote_4 = 416".
+Action.c(19): Notify: Saving Parameter "last_quote_5 = 417".
+Action.c(19): Notify: Saving Parameter "last_quote_6 = 421".
+Action.c(19): Notify: Saving Parameter "last_quote_count = 6".
+Action.c(19): web_url("{topic_name}") was successful, 40880 body bytes, 2769 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(29): Notify: Transaction "_Forum_WEB_03_01_select_topic" ended with a "Pass" status (Duration: 0,2325 Wasted Time: 0,0144).
+Action.c(33): Notify: Transaction "_Forum_WEB_03_01_quote" started.
+Action.c(35): Notify: Parameter Substitution: parameter "last_quote_count" =  "6"
+Action.c(41): Notify: Parameter Substitution: parameter "last_quote_6" =  "421"
+Action.c(41): Notify: Saving Parameter "quote_id = 421".
+Action.c(45): web_url("Reply with quote") started  	[MsgId: MMSG-26355]
+Action.c(45): Notify: Parameter Substitution: parameter "quote_id" =  "421"
+Action.c(45): Notify: Parameter Substitution: parameter "topic" =  "viewtopic.php?t=21"
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_biggrin.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_smile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_sad.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_surprised.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_eek.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_confused.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_cool.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_lol.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_mad.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_razz.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_redface.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_cry.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_evil.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_twisted.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_rolleyes.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_wink.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_exclaim.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_question.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_idea.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Found resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_arrow.gif" in HTML "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26659]
+Action.c(45): Detected non-resource "http://u0351361.isp.regruhosting.ru/posting.php?mode=topicreview&t=21" in "http://u0351361.isp.regruhosting.ru/posting.php?mode=quote&p=421"  	[MsgId: MMSG-26574]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/spacer.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(45): web_url("Reply with quote") was successful, 61319 body bytes, 6291 header bytes, 26 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(55): web_submit_data("posting.php") started  	[MsgId: MMSG-26355]
+Action.c(55): Notify: Parameter Substitution: parameter "quote_id" =  "421"
+Action.c(55): Warning: The string 'session_id' with parameter delimiters is not a parameter.
+Action.c(55): Notify: Parameter Substitution: parameter "topic_name" =  "nikvs84@rambler.ru"
+Action.c(55): Notify: Parameter Substitution: parameter "message_body" =  "Hi-Hi"
+Action.c(55): Notify: Parameter Substitution: parameter "ssid" =  "e90cfb5b38b6f812eac3919ae85889c3"
+Action.c(55): Notify: Parameter Substitution: parameter "quote_id" =  "421"
+Action.c(55): Notify: Parameter Substitution: parameter "quote_id" =  "421"
+Action.c(55): Detected non-resource "http://u0351361.isp.regruhosting.ru/viewtopic.php?p=423#423" in "http://u0351361.isp.regruhosting.ru/posting.php"  	[MsgId: MMSG-26574]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic1.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/cellpic3.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/post.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/reply.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_minipost.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_quote.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_edit.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/images/smiles/icon_smile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/lang_english/icon_pm.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/spacer.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_delete.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(55): web_submit_data("posting.php") was successful, 50554 body bytes, 720 header bytes, 26 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(78): Notify: Transaction "_Forum_WEB_03_01_quote" ended with a "Pass" status (Duration: 3,5729 Wasted Time: 0,0344).
+Action.c(80): Notify: Transaction "_Forum_WEB_03_main_transaction" ended with a "Pass" status (Duration: 3,8064 Wasted Time: 0,0488).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+vuser_end.c(5): Notify: Transaction "Forum_WEB_07_logout" started.
+vuser_end.c(7): web_url("Log out [ nikvs84 ]") started  	[MsgId: MMSG-26355]
+vuser_end.c(7): Notify: Parameter Substitution: parameter "ssid" =  "e90cfb5b38b6f812eac3919ae85889c3"
+vuser_end.c(7): Redirecting "http://u0351361.isp.regruhosting.ru/login.php?logout=true&sid=e90cfb5b38b6f812eac3919ae85889c3" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(7): To location "http://u0351361.isp.regruhosting.ru/index.php"  	[MsgId: MMSG-26693]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/logo_phpBB.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_faq.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_search.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_members.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_groups.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_register.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_profile.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_message.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_mini_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_big.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/icon_latest_reply.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/whosonline.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_new_big.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): Resource "http://u0351361.isp.regruhosting.ru/templates/subSilver/images/folder_locked_big.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(7): web_url("Log out [ nikvs84 ]") was successful, 19708 body bytes, 925 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+vuser_end.c(17): Notify: Transaction "Forum_WEB_07_logout" ended with a "Pass" status (Duration: 0,1801 Wasted Time: 0,0096).
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 3584), ended OK."

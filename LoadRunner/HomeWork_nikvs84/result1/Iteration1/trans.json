@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "Forum_WEB_01_login",
+        "rawStartTime": 1498935306535,
+        "rawEndTime": 1498935306855
+    },
+    {
+        "transactionName": "Forum_WEB_02_select_category",
+        "rawStartTime": 1498935306855,
+        "rawEndTime": 1498935307122
+    },
+    {
+        "transactionName": "_Forum_WEB_03_01_select_topic",
+        "rawStartTime": 1498935307134,
+        "rawEndTime": 1498935307366
+    },
+    {
+        "transactionName": "_Forum_WEB_03_01_quote",
+        "rawStartTime": 1498935307367,
+        "rawEndTime": 1498935310940
+    },
+    {
+        "transactionName": "_Forum_WEB_03_main_transaction",
+        "rawStartTime": 1498935307134,
+        "rawEndTime": 1498935310940
+    },
+    {
+        "transactionName": "Forum_WEB_07_logout",
+        "rawStartTime": 1498935310950,
+        "rawEndTime": 1498935311130
+    }
+]

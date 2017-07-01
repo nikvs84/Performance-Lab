@@ -1,0 +1,65 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=HomeWork_nikvs84.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=12
+MinorVersion=53
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=12.53.0.1203
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=12.53.0.1203
+DisableRegenerate=0
+Description=
+ScriptLocale=ru-RU
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Recorded Actions]
+vuser_init=0
+Action=1
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Action=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="Forum_WEB_01_login__*delimiter*__Forum_WEB_02_select_category__*delimiter*___Forum_WEB_03_main_transaction__*delimiter*___Forum_WEB_03_01_select_topic__*delimiter*___Forum_WEB_03_01_quote__*delimiter*__Forum_WEB_07_logout"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=result1
+[Transactions]
+Forum_WEB_01_login=
+Forum_WEB_02_select_category=
+_Forum_WEB_03_main_transaction=
+_Forum_WEB_03_01_select_topic=
+_Forum_WEB_03_01_quote=
+Forum_WEB_07_logout=

@@ -1,0 +1,11 @@
+GET /login.php?logout=true&sid=60f5fdf6ac12c4cc91ecf6776344baf7 HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Referer: http://u0351361.isp.regruhosting.ru/viewtopic.php?p=210
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: u0351361.isp.regruhosting.ru
+DNT: 1
+Connection: Keep-Alive
+Cookie: phpbb2mysql_data=a%3A2%3A%7Bs%3A11%3A%22autologinid%22%3Bs%3A0%3A%22%22%3Bs%3A6%3A%22userid%22%3Bs%3A2%3A%2214%22%3B%7D; phpbb2mysql_sid=60f5fdf6ac12c4cc91ecf6776344baf7; phpbb2mysql_t=a%3A1%3A%7Bi%3A13%3Bi%3A1497779365%3B%7D
+

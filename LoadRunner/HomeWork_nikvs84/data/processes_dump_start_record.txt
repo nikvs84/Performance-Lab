@@ -1,0 +1,82 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 304
+Failed to get information of process Id: 448
+Failed to get information of process Id: 504
+Failed to get information of process Id: 520
+Failed to get information of process Id: 568
+Failed to get information of process Id: 592
+Failed to get information of process Id: 620
+Failed to get information of process Id: 632
+Failed to get information of process Id: 744
+Failed to get information of process Id: 820
+Failed to get information of process Id: 908
+Failed to get information of process Id: 948
+Failed to get information of process Id: 980
+Failed to get information of process Id: 1004
+Failed to get information of process Id: 356
+Failed to get information of process Id: 1108
+Failed to get information of process Id: 1324
+Failed to get information of process Id: 1340
+Failed to get information of process Id: 1444
+Failed to get information of process Id: 1472
+Failed to get information of process Id: 1576
+Failed to get information of process Id: 1612
+Failed to get information of process Id: 1664
+Failed to get information of process Id: 1752
+Failed to get information of process Id: 1772
+Failed to get information of process Id: 1816
+Failed to get information of process Id: 1128
+Failed to get information of process Id: 1492
+Failed to get information of process Id: 1872
+Failed to get information of process Id: 1048
+Failed to get information of process Id: 1276
+Failed to get information of process Id: 1724
+Failed to get information of process Id: 2032
+Failed to get information of process Id: 2092
+Failed to get information of process Id: 2288
+Failed to get information of process Id: 2648
+Failed to get information of process Id: 2784
+Failed to get information of process Id: 2832
+Failed to get information of process Id: 2924
+Failed to get information of process Id: 2932
+Failed to get information of process Id: 2940
+Failed to get information of process Id: 2948
+PROCESS 0xb90       magentproc.exe
+PROCESS 0x8d8       concentr.exe
+PROCESS 0x818       redirector.exe
+PROCESS 0x490       jusched.exe
+PROCESS 0x79c       receiver.exe
+Failed to get information of process Id: 2740
+Failed to get information of process Id: 3076
+PROCESS 0xc48       configurationwizard.exe
+PROCESS 0xd5c       selfserviceplugin.exe
+PROCESS 0xdc8       wfcrun32.exe
+Failed to get information of process Id: 3816
+Failed to get information of process Id: 1300
+Failed to get information of process Id: 3436
+Failed to get information of process Id: 3656
+Failed to get information of process Id: 3992
+Failed to get information of process Id: 3496
+Failed to get information of process Id: 2592
+Failed to get information of process Id: 3356
+Failed to get information of process Id: 3920
+Failed to get information of process Id: 2980
+Failed to get information of process Id: 1084
+Failed to get information of process Id: 672
+Failed to get information of process Id: 2248
+Failed to get information of process Id: 4188
+Failed to get information of process Id: 4240
+Failed to get information of process Id: 4248
+Failed to get information of process Id: 4352
+Failed to get information of process Id: 4424
+Failed to get information of process Id: 4484
+Failed to get information of process Id: 4528
+Failed to get information of process Id: 4560
+Failed to get information of process Id: 4904
+Failed to get information of process Id: 4360
+Failed to get information of process Id: 2572
+Failed to get information of process Id: 5108
+Failed to get information of process Id: 5608
+PROCESS 0x1580      vugen.exe
+Failed to get information of process Id: 5944

@@ -1,0 +1,9 @@
+GET /index.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, */*
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: u0351361.isp.regruhosting.ru
+DNT: 1
+Connection: Keep-Alive
+

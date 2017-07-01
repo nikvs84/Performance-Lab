@@ -355,3 +355,39 @@ SELECT TO_CHAR(T.TIME_ID, 'HH24') "Час", SUM(T.QUANTITY_SOLD) "Сумма"
 
 -- 14
 DROP TABLE SH.SALES_User5_Nikolai_Semenyuk;
+
+/*
+PPS: Высылаю также долги по работе в классе (схема Learn):
+
+И задание № 9 полностью:      
+
+(все названия каждый придумывает самостоятельно, т.е. у каждого должен быть свой объект БД)
+
+Создать новую таблицу (таблица C), содержащую только уникальные строки таблицы Clients
+*/
+CREATE TABLE CLIENTS_NIKVS84 AS
+    (
+        SELECT DISTINCT * FROM CLIENTS
+    )
+;
+
+/*
+Создать новую таблицу (таблица S), содержащую только уникальные строки таблицы Sales
+*/
+CREATE TABLE SALES_NIKVS84 AS 
+    (
+        SELECT DISTINCT * FROM SALES
+    )
+;
+
+/*
+Добавить PRIMARY KEY на столбец snum таблицы S (при необходимости удалить повторяющиеся snumы и null-значения)
+*/
+DELETE FROM SALES_NIKVS84
+    WHERE SNUM IS NULL
+;
+
+/*
+Добавить FOREIGN KEY на столбец snum таблицы С (при необходимости из C удалить строки с такими snum, которых нет в S)
+*/
+
